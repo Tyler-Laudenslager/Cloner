@@ -6,6 +6,9 @@
 #          directory. (does not overwrite and files that have
 #          the same name in the destination directory from the
 #          source.)
+
+# Developed with Python 3.10
+# Execute Command -> python3.10 clone.py source_dir dest_dir
 import os
 import sys
 import shutil
