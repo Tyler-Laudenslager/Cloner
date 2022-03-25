@@ -1,4 +1,4 @@
 # clone
-recursive directory cloner
+# recursive directory cloner
 
-# Note: This program was developed using solar energy technology.
+Note: This program was developed using solar energy technology.
